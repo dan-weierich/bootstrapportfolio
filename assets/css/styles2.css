@@ -1,0 +1,46 @@
+body {
+	background-image: url('http://thumbs.dreamstime.com/t/beach-sand-background-lose-up-view-31818948.jpg')
+}
+
+.footer p {
+	text-align: center;
+	font-weight: bold;
+}
+
+.navbar {
+	font-family: "Georgia", Times, Times New Roman, serif;
+    border: 3px solid #4aaaa5;
+	position: static;
+	width: 1030px;
+    height: 60px;
+    background-color: #eef01c;
+}
+
+.submitbutton {
+	background-color: #4aaaa5;
+	font-color: #777777;
+	font-weight: bold;
+	padding: 4px;
+	margin-top: 10px;
+}
+
+label {
+	margin-top: 3px;
+}
+
+
+@media screen and (max-width: 980px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px) {
+
+	.heading {
+		position: static;
+	}
+
+}
